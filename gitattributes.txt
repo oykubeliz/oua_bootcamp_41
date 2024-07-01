@@ -1,0 +1,21 @@
+# Automatically normalize line endings for text files
+* text=auto
+
+# Declare files that will always have LF line endings on checkout
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.txt text eol=lf
+
+# Declare files that will always have CRLF line endings on checkout
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# Handle Unity specific files
+*.cs text eol=lf
+*.unity text eol=lf
+*.meta text eol=lf
+*.asmdef text eol=lf
