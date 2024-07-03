@@ -715,10 +715,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33c053094437eb146b9ff22c65688bb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 4
+  moveSpeed: 8
+  sprintSpeed: 16
   mainCam: {fileID: 963194225}
   cameraFollowTarget: {fileID: 206207435}
   lookSensitivity: 0.06
+  speedSmoothTime: 0.1
 --- !u!114 &1902344338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -733,6 +735,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   move: {x: 0, y: 0}
   look: {x: 0, y: 0}
+  sprint: 0
 --- !u!114 &1902344339
 MonoBehaviour:
   m_ObjectHideFlags: 0

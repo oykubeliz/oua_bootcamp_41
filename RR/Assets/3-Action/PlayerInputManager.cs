@@ -7,6 +7,7 @@ public class PlayerInputManager : MonoBehaviour
 {
     public Vector2 move;
     public Vector2 look;
+    public bool sprint;
     
     void OnMove(InputValue value)
     {
@@ -16,6 +17,11 @@ public class PlayerInputManager : MonoBehaviour
     void OnLook(InputValue value)
     {
         look = value.Get<Vector2>();
+    }
+
+    void OnSprint(InputValue value)
+    {
+        sprint = value.isPressed;
     }
 
 }
