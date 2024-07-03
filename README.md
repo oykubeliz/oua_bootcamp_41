@@ -1,36 +1,35 @@
 <img src="https://i.imgur.com/NcLvex0.png" width=600>
 
-## Takım İsmi
+## Team Name
 U41 Unity Takımı
 
-## Takım Üyeleri
+## Team Members
 - ***Mustafa Said Güngör*** - Product Owner
 - ***Öykü Beliz Öztürk*** - Scrum Master
 - ***Özlem Arslan*** - Developer
 - ***Nur Muhammed Korkutata*** - Developer
 - ***Muhammed Said Özaydın*** - Developer
 
-## Oyun İsmi
+## Game Name
 Robotic Resurrection
 
 ## Product Backlog URL
 [U41 Unity Trello Backlog Board](https://trello.com/b/XGJi2Ldu/team-board)
 
-## Oyun Açıklaması
-Robotic Resurrection, .....
+## Game Description
+In Robotic Resurrection, players control a cute, determined robot named Bolt who must navigate a small desert planet to find and reassemble his robot friend, Jolt, after a spaceship crash. The game combines elements of exploration, adventure and platforming.
+Players will guide Bolt through the desert filled with unique challenges and obstacles. Bolt will encounter platforming sections that test agility and enemies to fight. Along the way, Bolt can collect parts of his robot friend and assemble Jolt.
 
-## Oyun Özellikleri
-- ...
-- ...
-- ...
-- ...
+## Game Features
+- 3D
+- Singleplayer
+- Offline
 
-## Hedef Kitle
-- ...
-- ...
-- ...
-- ...
-- ...
+## Target Group
+- 7 + 
+- Children: The game’s cute aesthetic, simple controls, and heartwarming story make it appealing to younger players.
+- Parents and Families: The non-violent, positive themes make it a suitable choice for family gaming sessions.
+- Casual Gamers: The easy-to-pick-up gameplay and charming characters attract those looking for a lighthearted and enjoyable experience.
 
 ---
 # **SPRINT 1**
