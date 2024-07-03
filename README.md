@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/NcLvex0.png" width=600>
 
 ## Team Name
-U41 Unity Takımı
+U41 Unity
 
 ## Team Members
 - ***Mustafa Said Güngör*** - Product Owner
@@ -14,7 +14,7 @@ U41 Unity Takımı
 Robotic Resurrection
 
 ## Product Backlog URL
-[U41 Unity Trello Backlog Board] [https://trello.com/invite/ouabootcamp41/ATTI5e57528338a23daeda6feb25d168bc8eC58D3666]
+[U41 Unity Trello Backlog] [https://trello.com/invite/ouabootcamp41/ATTI5e57528338a23daeda6feb25d168bc8eC58D3666]
 
 ## Game Description
 In Robotic Resurrection, players control a cute, determined robot named Bolt who must navigate a small desert planet to find and reassemble his robot friend, Jolt, after a spaceship crash. The game combines elements of exploration, adventure and platforming.
