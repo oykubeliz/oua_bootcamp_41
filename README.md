@@ -19,7 +19,7 @@ Robotic Resurrection
 ## Game Description
 In Robotic Resurrection, players control a cute, determined robot named Bolt who must navigate a small desert planet to find and reassemble his robot friend, Jolt, after a spaceship crash. The game combines elements of exploration, adventure and platforming.
 
-Players will guide Bolt through the desert filled with unique challenges and obstacles. Bolt will encounter platforming sections that test agility and enemies to fight. Along the way, Bolt can collect parts of his robot friend and assemble Jolt.
+Players will guide Bolt through the desert filled with challenges and obstacles. Bolt will encounter platforming sections that test agility and enemies to fight. Along the way, Bolt will collect parts of his robot friend and assemble Jolt.
 
 ## Game Features
 - 3D
