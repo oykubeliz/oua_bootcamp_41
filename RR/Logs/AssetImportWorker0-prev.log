@@ -1,0 +1,1429 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.35f1 (011206c7a712) revision 70150'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'tr' Physical Memory: 16253 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Programs\Unity\2022.3.35f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mgngr/Documents/GitHub/oua_bootcamp_41/RR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51198
+Successfully changed project path to: C:/Users/mgngr/Documents/GitHub/oua_bootcamp_41/RR
+C:/Users/mgngr/Documents/GitHub/oua_bootcamp_41/RR
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [20588] Host "[IP] 192.168.1.108 [Port] 0 [Flags] 2 [Guid] 3897059189 [EditorId] 3897059189 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-943P5H7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [20588] Host "[IP] 192.168.1.108 [Port] 0 [Flags] 2 [Guid] 3897059189 [EditorId] 3897059189 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-943P5H7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 9.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.35f1 (011206c7a712)
+[Subsystems] Discovering subsystems at path E:/Programs/Unity/2022.3.35f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mgngr/Documents/GitHub/oua_bootcamp_41/RR/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2487)
+    Vendor:   NVIDIA
+    VRAM:     12110 MB
+    Driver:   32.0.15.5612
+Initialize mono
+Mono path[0] = 'E:/Programs/Unity/2022.3.35f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Programs/Unity/2022.3.35f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Programs/Unity/2022.3.35f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Programs/Unity/2022.3.35f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: E:/Programs/Unity/2022.3.35f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006159 seconds.
+- Loaded All Assemblies, in  0.332 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 213 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.504 seconds
+Domain Reload Profiling: 836ms
+	BeginReloadAssembly (119ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (125ms)
+		LoadAssemblies (119ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (110ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (504ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (456ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (306ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (103ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.774 seconds
+Refreshing native plugins compatible for Editor in 5.43 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.508 seconds
+Domain Reload Profiling: 1282ms
+	BeginReloadAssembly (125ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (19ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (568ms)
+		LoadAssemblies (482ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (160ms)
+			TypeCache.Refresh (139ms)
+				TypeCache.ScanAssembly (125ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (509ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (369ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (271ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3096 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (57.6 KB). Loaded Objects now: 3559.
+Memory consumption went from 124.4 MB to 124.4 MB.
+Total: 2.193700 ms (FindLiveObjects: 0.173600 ms CreateObjectMapping: 0.081100 ms MarkObjects: 1.865300 ms  DeleteObjects: 0.072900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8722.586840 seconds.
+  path: Assets/Scenes/CharacterNCameraControls.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/CharacterNCameraControls.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '37389896da3badbca5ac148fe2ffe057') in 0.002346 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 219.698173 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(7f431194e2dcfda4184bd10962e139e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(7f431194e2dcfda4184bd10962e139e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '46bacdd2e7862cb20ed4a8abb80a3206') in 0.000538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 19.779446 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(6f166c9d530c2a046ab04973056723f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(6f166c9d530c2a046ab04973056723f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0e99ba480d85fb405afaa2e113b262dc') in 0.000446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 961.967416 seconds.
+  path: Assets/3-Animations
+  artifactKey: Guid(d09bfb786152bc34a94decfdae0c0fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3-Animations using Guid(d09bfb786152bc34a94decfdae0c0fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '46f7aeb1a2b3aa4d181bc47fa1859eb5') in 0.000592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.385428 seconds.
+  path: Assets/3-Materials
+  artifactKey: Guid(6f166c9d530c2a046ab04973056723f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3-Materials using Guid(6f166c9d530c2a046ab04973056723f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '29a216064084f87abd33d1add14d1a43') in 0.000446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.345207 seconds.
+  path: Assets/5-Materials
+  artifactKey: Guid(6f166c9d530c2a046ab04973056723f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/5-Materials using Guid(6f166c9d530c2a046ab04973056723f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '48bddfc3130a0d12a38734c68ddae6bb') in 0.000382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 21.757068 seconds.
+  path: Assets/4-Action
+  artifactKey: Guid(efaa81291fb02cd428ac4f0a6252b16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4-Action using Guid(efaa81291fb02cd428ac4f0a6252b16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4de08206e72af4a1d0d97eddcacb6e29') in 0.000421 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.572671 seconds.
+  path: Assets/3-Animation
+  artifactKey: Guid(d09bfb786152bc34a94decfdae0c0fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3-Animation using Guid(d09bfb786152bc34a94decfdae0c0fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2779c0c6210632d71f8e67fafea90bbb') in 0.000378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.121162 seconds.
+  path: Assets/4-Animation
+  artifactKey: Guid(d09bfb786152bc34a94decfdae0c0fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4-Animation using Guid(d09bfb786152bc34a94decfdae0c0fff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6a2ab653f09a9fc68f5d40e7a9b779d7') in 0.000393 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.508102 seconds.
+  path: Assets/3-Action
+  artifactKey: Guid(efaa81291fb02cd428ac4f0a6252b16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3-Action using Guid(efaa81291fb02cd428ac4f0a6252b16d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a0c8f755317248a8a22ddf5b8c0f3113') in 0.000385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 147.659934 seconds.
+  path: Assets/10-Others
+  artifactKey: Guid(ba1183e7f43464a45a286220825a86ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others using Guid(ba1183e7f43464a45a286220825a86ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8bacd87b5fc08fd1a0ce77003667761') in 0.000414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.499 seconds
+Refreshing native plugins compatible for Editor in 3.02 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.873 seconds
+Domain Reload Profiling: 1371ms
+	BeginReloadAssembly (168ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (20ms)
+	LoadAllAssembliesAndSetupDomain (267ms)
+		LoadAssemblies (253ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (95ms)
+			TypeCache.Refresh (76ms)
+				TypeCache.ScanAssembly (67ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (874ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (427ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (61ms)
+			ProcessInitializeOnLoadAttributes (270ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4182 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (0.8 MB). Loaded Objects now: 4645.
+Memory consumption went from 149.1 MB to 148.3 MB.
+Total: 2.978900 ms (FindLiveObjects: 0.253700 ms CreateObjectMapping: 0.144200 ms MarkObjects: 2.330800 ms  DeleteObjects: 0.249300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 152.566670 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/Shaders
+  artifactKey: Guid(086d1e78e442bb4488a1cd5ae2e96630) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/Shaders using Guid(086d1e78e442bb4488a1cd5ae2e96630) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd32b8cdc9891570e157417503accdb18') in 0.001695 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.453534 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/Textures
+  artifactKey: Guid(657ee588cc9264c428cdacbfffc5ed89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/Textures using Guid(657ee588cc9264c428cdacbfffc5ed89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fc59ffe3048c121e532eb0fffe15404c') in 0.000524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.848872 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/Runtime
+  artifactKey: Guid(28e4de6739788dd478828270269bb357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/Runtime using Guid(28e4de6739788dd478828270269bb357) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ec8dc278fe9bdffb152ad81d581b1571') in 0.000479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.592780 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/Samples
+  artifactKey: Guid(8abd8d457707161489aa3f0cbb73a40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/Samples using Guid(8abd8d457707161489aa3f0cbb73a40c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dbcb2f319ec957ce53665c989c3a2016') in 0.000562 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.190082 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/Samples/Demo
+  artifactKey: Guid(68bfea7e483305743a46865ae73f4999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/Samples/Demo using Guid(68bfea7e483305743a46865ae73f4999) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7b5f30188ca8505c0c8860703c218af1') in 0.000425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.184949 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/Editor
+  artifactKey: Guid(2e1541d1286faf54ea901a549259b3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/Editor using Guid(2e1541d1286faf54ea901a549259b3aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '630e8d0744166b0d021165d3a1859822') in 0.000441 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 45.655770 seconds.
+  path: Packages/com.occasoftware.super-simple-skybox/README.pdf
+  artifactKey: Guid(b8ff9765fff54ed47a66928878c64440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.occasoftware.super-simple-skybox/README.pdf using Guid(b8ff9765fff54ed47a66928878c64440) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4267a7e652fc977f05ff49bfd7578547') in 0.008934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.435 seconds
+Refreshing native plugins compatible for Editor in 2.81 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.724 seconds
+Domain Reload Profiling: 1159ms
+	BeginReloadAssembly (146ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (224ms)
+		LoadAssemblies (228ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (73ms)
+			TypeCache.Refresh (60ms)
+				TypeCache.ScanAssembly (50ms)
+			ScanForSourceGeneratedMonoScriptInfo (8ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (725ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (323ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (227ms)
+			ProcessInitializeOnLoadMethodAttributes (19ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 3.36 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3087 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 288 unused Assets / (169.8 KB). Loaded Objects now: 4385.
+Memory consumption went from 126.0 MB to 125.8 MB.
+Total: 2.778100 ms (FindLiveObjects: 0.275800 ms CreateObjectMapping: 0.149600 ms MarkObjects: 2.112200 ms  DeleteObjects: 0.239300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.376 seconds
+Refreshing native plugins compatible for Editor in 3.65 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.701 seconds
+Domain Reload Profiling: 1075ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (21ms)
+	LoadAllAssembliesAndSetupDomain (181ms)
+		LoadAssemblies (230ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (701ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (314ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (52ms)
+			ProcessInitializeOnLoadAttributes (221ms)
+			ProcessInitializeOnLoadMethodAttributes (18ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 2.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3152 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (149.6 KB). Loaded Objects now: 4450.
+Memory consumption went from 127.7 MB to 127.5 MB.
+Total: 2.223100 ms (FindLiveObjects: 0.205000 ms CreateObjectMapping: 0.109300 ms MarkObjects: 1.801800 ms  DeleteObjects: 0.106200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.361 seconds
+Refreshing native plugins compatible for Editor in 3.22 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.770 seconds
+Domain Reload Profiling: 1130ms
+	BeginReloadAssembly (121ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (26ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (172ms)
+		LoadAssemblies (217ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (9ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (6ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (770ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (330ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (76ms)
+			ProcessInitializeOnLoadAttributes (215ms)
+			ProcessInitializeOnLoadMethodAttributes (17ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 2.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3152 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (149.7 KB). Loaded Objects now: 4453.
+Memory consumption went from 128.4 MB to 128.2 MB.
+Total: 2.327900 ms (FindLiveObjects: 0.239800 ms CreateObjectMapping: 0.133300 ms MarkObjects: 1.831900 ms  DeleteObjects: 0.121600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 165.077457 seconds.
+  path: Assets/10-Others/BOXOPHOBIC
+  artifactKey: Guid(662e2c2cc142bad46807047061edc051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC using Guid(662e2c2cc142bad46807047061edc051) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '45c31b9eb37e0af0328a4fbba3839224') in 0.002081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.298390 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended
+  artifactKey: Guid(ec2d746e41aed3844a71f06ad64cd400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended using Guid(ec2d746e41aed3844a71f06ad64cd400) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9b1d1bde2490ddf11524eb988fcec878') in 0.000465 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.978608 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core
+  artifactKey: Guid(751fec7e3e72b424792fb57b63f4761c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core using Guid(751fec7e3e72b424792fb57b63f4761c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '12eeec6d7d4af60da30ee70d0c6be860') in 0.000496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.877937 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils
+  artifactKey: Guid(fa238789e87514b4aafbcb1eb33582a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils using Guid(fa238789e87514b4aafbcb1eb33582a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'da576abe45e9635ddd6d1003473dc98e') in 0.000480 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.086953 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/User
+  artifactKey: Guid(022c16798e6535d40a70214049a2b49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/User using Guid(022c16798e6535d40a70214049a2b49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac6f101b6a6d606dd7779aa61a86c4cf') in 0.000472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.875009 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo
+  artifactKey: Guid(8aab3a02f5c8c0e4088238c098c1d1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo using Guid(8aab3a02f5c8c0e4088238c098c1d1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd59d0dda91be351de34241ac4df66100') in 0.000667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 4.112487 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Blend.unity
+  artifactKey: Guid(a66e5f1bb7e0e90469c3bcd8ae5c4b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Blend.unity using Guid(a66e5f1bb7e0e90469c3bcd8ae5c4b2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4391a66992076a2ede9de163b6e56401') in 0.000519 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.643279 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity
+  artifactKey: Guid(67adac43bcf286444be612074ab04f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity using Guid(67adac43bcf286444be612074ab04f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd2829a44f19ab73d74fd9349acc4995c') in 0.000449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.880281 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Night.unity
+  artifactKey: Guid(a5df9867bdacd604dbe1d73079151448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Night.unity using Guid(a5df9867bdacd604dbe1d73079151448) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '93465e67b56b9c275769c472b30c9aa4') in 0.000478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.092606 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials
+  artifactKey: Guid(a0e58a8d4355aa94a9fc168b1fd50cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials using Guid(a0e58a8d4355aa94a9fc168b1fd50cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3174fd702b5539401c206485f0ce73b5') in 0.000514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 167.091652 seconds.
+  path: Assets/6-Fbx
+  artifactKey: Guid(c83141c18bfb3df40ad9d77e329178d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/6-Fbx using Guid(c83141c18bfb3df40ad9d77e329178d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dcc7ef5d991843d564cf85de0ae6c7e7') in 0.000479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 198.767025 seconds.
+  path: Assets/4-Animation/RobotAnimationController.controller
+  artifactKey: Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4-Animation/RobotAnimationController.controller using Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8636210dc67ca4a735604f13a6f936ac') in 0.009570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 125.439787 seconds.
+  path: Assets/6-Fbx/RobotPlus.fbx
+  artifactKey: Guid(7d39530fa4c4af54f97af91bd65bb000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/6-Fbx/RobotPlus.fbx using Guid(7d39530fa4c4af54f97af91bd65bb000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '886a2f4a1949d4985244dc368b064dff') in 0.330475 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 210
+========================================================================
+Received Import Request.
+  Time since last request: 197.903865 seconds.
+  path: Assets/4-Animation/RobotAnimationController.controller
+  artifactKey: Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4-Animation/RobotAnimationController.controller using Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f3e68d885116ba382cce16103d93eb14') in 0.002260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 193.898640 seconds.
+  path: Assets/4-Animation/RobotAnimationController.controller
+  artifactKey: Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/4-Animation/RobotAnimationController.controller using Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0dab3c8e1e397310bb62d2e33ca0d4aa') in 0.003150 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Prepare
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.425 seconds
+Refreshing native plugins compatible for Editor in 4.40 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.860 seconds
+Domain Reload Profiling: 1284ms
+	BeginReloadAssembly (135ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (220ms)
+		LoadAssemblies (276ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (17ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (860ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (414ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (90ms)
+			ProcessInitializeOnLoadAttributes (273ms)
+			ProcessInitializeOnLoadMethodAttributes (21ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Refreshing native plugins compatible for Editor in 3.12 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3152 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (149.7 KB). Loaded Objects now: 4499.
+Memory consumption went from 130.5 MB to 130.4 MB.
+Total: 2.739200 ms (FindLiveObjects: 0.328000 ms CreateObjectMapping: 0.139000 ms MarkObjects: 2.140900 ms  DeleteObjects: 0.130200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 891.704678 seconds.
+  path: Assets/3-Action/ThirdPersonController.cs
+  artifactKey: Guid(87749d1bbad4aa04593ee02c7041f4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3-Action/ThirdPersonController.cs using Guid(87749d1bbad4aa04593ee02c7041f4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd35d1c82c6be37c2073fa4489b7cec88') in 0.002226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.347 seconds
+Refreshing native plugins compatible for Editor in 5.09 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.SkyboxCubemapExtended.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Scripts' already exists (Assets/BOXOPHOBIC/Utils/Scripts/Boxophobic.Utils.Scripts.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/10-Others/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+Assembly with name 'Boxophobic.Utils.Editor' already exists (Assets/BOXOPHOBIC/Utils/Editor/Boxophobic.Utils.Editor.asmdef)
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.400 seconds
+Domain Reload Profiling: 2745ms
+	BeginReloadAssembly (425ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (78ms)
+	RebuildCommonClasses (102ms)
+	RebuildNativeTypeToScriptingClass (29ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (738ms)
+		LoadAssemblies (988ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (9ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1401ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (599ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (109ms)
+			ProcessInitializeOnLoadAttributes (431ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 4.19 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3153 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 29 unused Assets / (141.7 KB). Loaded Objects now: 4503.
+Memory consumption went from 130.6 MB to 130.4 MB.
+Total: 2.693500 ms (FindLiveObjects: 0.253900 ms CreateObjectMapping: 0.137200 ms MarkObjects: 2.118700 ms  DeleteObjects: 0.182500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 103.499949 seconds.
+  path: Assets/3-Action/ThirdPersonController.cs
+  artifactKey: Guid(87749d1bbad4aa04593ee02c7041f4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3-Action/ThirdPersonController.cs using Guid(87749d1bbad4aa04593ee02c7041f4c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd20a25aed156aa81c62246d5e943330d') in 0.002595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 190.630782 seconds.
+  path: Assets/1-Scenes/CharacterNCameraControls.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/1-Scenes/CharacterNCameraControls.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5a145d22ce910ae078f97ac6353337a4') in 0.086229 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledSpaceDrawer.cs
+  artifactKey: Guid(1f2f57e67392e5b41af1a4cecc3a6c04) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledSpaceDrawer.cs using Guid(1f2f57e67392e5b41af1a4cecc3a6c04) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '47e941fc100d6a91bb6eb6e7fc1a5819') in 0.063806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat
+  artifactKey: Guid(2bd8959f5fbd3644aa33af1a155fc147) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Day.mat using Guid(2bd8959f5fbd3644aa33af1a155fc147) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'aafb2997287a812ce27247fa83ec1481') in 0.307355 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef
+  artifactKey: Guid(29bc400970c5066438cbde7676418b75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Boxophobic.SkyboxCubemapExtended.Editor.asmdef using Guid(29bc400970c5066438cbde7676418b75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '45cc980ec2deaa2c2e05b71838af97b5') in 0.019522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorBanner.cs
+  artifactKey: Guid(1525d4228f26951498e86e425363f3f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorBanner.cs using Guid(1525d4228f26951498e86e425363f3f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '38d9e0f4f2e694f7497c080cb56c2ccd') in 0.021656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/Constants/Constants.cs
+  artifactKey: Guid(e0cf8ff3bbc97374f88272f686fb80e5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/Constants/Constants.cs using Guid(e0cf8ff3bbc97374f88272f686fb80e5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '923fbb835e992424f43e4969c4227546') in 0.019039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledLayersDrawer.cs
+  artifactKey: Guid(b351b243374f2d948a9e9943abe174bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledLayersDrawer.cs using Guid(b351b243374f2d948a9e9943abe174bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '55f78fadec48acae3a4fc86be273c1d2') in 0.016440 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat
+  artifactKey: Guid(138b35dd321622a4d93635b532ae8b8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - FirTree.mat using Guid(138b35dd321622a4d93635b532ae8b8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac403a6aac0405354f282fa4e781377f') in 0.025002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass A.prefab
+  artifactKey: Guid(9b6eba5dea9e77a4abd8f45df1ffffb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Grass A.prefab using Guid(9b6eba5dea9e77a4abd8f45df1ffffb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fa453a8e6d546422a38a0cb58fcc700f') in 0.037988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowCategory.cs
+  artifactKey: Guid(aac99d6d81f90e54cabd822770c11875) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawWindowCategory.cs using Guid(aac99d6d81f90e54cabd822770c11875) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '24112b0537dff7bddccb94c90f73dfc9') in 0.025700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs
+  artifactKey: Guid(0fb089d68a8e4634390e299256c8eec7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledBanner.cs using Guid(0fb089d68a8e4634390e299256c8eec7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '543c47da4c8690cc697edb68ed4d8ecc') in 0.025201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledColoringDrawer.cs
+  artifactKey: Guid(30afcd86dad75504ebd5516adf73ad08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledColoringDrawer.cs using Guid(30afcd86dad75504ebd5516adf73ad08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9b9d01fa65cf119b26f50022d86415a9') in 0.023995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledEnumDrawer.cs
+  artifactKey: Guid(7c3935e6d6b91844d8053d3fa7faff1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledEnumDrawer.cs using Guid(7c3935e6d6b91844d8053d3fa7faff1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ce6396340ddcdb0892440e27f35377c4') in 0.026979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Version.asset
+  artifactKey: Guid(cb530898cc05d744da0941d6160f7b92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Editor/Version.asset using Guid(cb530898cc05d744da0941d6160f7b92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2837d67b7845ab55c40f936103de4218') in 0.033037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass B.FBX
+  artifactKey: Guid(0860e6fc68e57ae48b5ae6e854f8f6b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Grass B.FBX using Guid(0860e6fc68e57ae48b5ae6e854f8f6b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e147eeb2e1e20e5b43c6e4170d218891') in 0.071363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/SettingsUtils/LoadSettingsData.cs
+  artifactKey: Guid(90057ce590a8bd148ab59e018f35d9cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/SettingsUtils/LoadSettingsData.cs using Guid(90057ce590a8bd148ab59e018f35d9cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4ff2a4c070e90f821cffdd759088db77') in 0.017699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledButton.cs
+  artifactKey: Guid(7c167590d9d480e438111f555c3a9d09) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledButton.cs using Guid(7c167590d9d480e438111f555c3a9d09) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '503dcccd5dbd27e71c572df360d9389c') in 0.021672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledDiffusionMaterialDrawer.cs
+  artifactKey: Guid(f13faeb510c3cb54ba5d051ecaad26e3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledDiffusionMaterialDrawer.cs using Guid(f13faeb510c3cb54ba5d051ecaad26e3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd8ffda262eb55b6d02f3b02cee404069') in 0.029633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledMonoBehaviour.cs
+  artifactKey: Guid(0003a5bea05764747b05fa096a075848) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledMonoBehaviour.cs using Guid(0003a5bea05764747b05fa096a075848) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8e2e229752193914312fb845aefb0c8c') in 0.018089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs
+  artifactKey: Guid(ab1d3117b9da8d7429e5ac70bd016772) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledMessage.cs using Guid(ab1d3117b9da8d7429e5ac70bd016772) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'aee1f6313071e877af5073719abf1235') in 0.018986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions/Compute Rotation Y.asset
+  artifactKey: Guid(693b7d13a80c93a4e8b791a9cd5e5ab2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Functions/Compute Rotation Y.asset using Guid(693b7d13a80c93a4e8b791a9cd5e5ab2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a1fcdf5cde6b8726bafcb4cd3adbfd37') in 0.012861 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence A.prefab
+  artifactKey: Guid(dd3ee0c97aab8a7498c9292f3482f60b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence A.prefab using Guid(dd3ee0c97aab8a7498c9292f3482f60b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f05d5d10844b189f2eac12686518e6ec') in 0.022631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledCategoryDrawer.cs
+  artifactKey: Guid(1b5715cd99e4a2e4c91d69653d31dad9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledCategoryDrawer.cs using Guid(1b5715cd99e4a2e4c91d69653d31dad9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9b6a9edb02182d46b4801911c4205adc') in 0.016400 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Blend.mat
+  artifactKey: Guid(1cf6f4c6e6e0518419839d3f5448dd99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Blend.mat using Guid(1cf6f4c6e6e0518419839d3f5448dd99) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2198c839d9fecce9f9caf724792b4bac') in 0.394885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledSpaceDrawer.cs
+  artifactKey: Guid(db0457065a494f34aa3b619f240d8bda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledSpaceDrawer.cs using Guid(db0457065a494f34aa3b619f240d8bda) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4453ef317dd893446ffd61502658e0f0') in 0.022628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextureDrawer.cs
+  artifactKey: Guid(ab83955dedb2aed428447d90cf62c81b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextureDrawer.cs using Guid(ab83955dedb2aed428447d90cf62c81b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4dfc60e8befb557e326518c7722037de') in 0.019499 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Blend.shader
+  artifactKey: Guid(7705790d9e8e16344ad5d7960c568904) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Core/Shaders/Skybox Cubemap Blend.shader using Guid(7705790d9e8e16344ad5d7960c568904) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4037a7bc3e32285d069f66a982388b56') in 0.015808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMono/StyledScriptableObjectEditor.cs
+  artifactKey: Guid(7a0e1a0aaab33f341b20d7d940fe0a06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMono/StyledScriptableObjectEditor.cs using Guid(7a0e1a0aaab33f341b20d7d940fe0a06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e43d5ad6963b736479ef6d2702c0475a') in 0.020123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledText.cs
+  artifactKey: Guid(df9ee7b5ab129dd4991f424a8d93430b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledText.cs using Guid(df9ee7b5ab129dd4991f424a8d93430b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8785413805137f1197330049943d08af') in 0.018212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat
+  artifactKey: Guid(cc421da483ed06c49933077a621bff25) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/Skybox Cubemap Extended Night.mat using Guid(cc421da483ed06c49933077a621bff25) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8e113dd5480af52f984a49623b29587e') in 0.202871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence B.prefab
+  artifactKey: Guid(b4974e3ae06d3d245a8353b888faed9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - Fence B.prefab using Guid(b4974e3ae06d3d245a8353b888faed9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4cc3f911ce50dc9cb46d0fa239c4dbd3') in 0.030066 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence B.FBX
+  artifactKey: Guid(6c41d268699e27248a4354335b2a76ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Fence B.FBX using Guid(6c41d268699e27248a4354335b2a76ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6d42f62dad12a7b041cd04079ba70562') in 0.026497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledMessageDrawer.cs
+  artifactKey: Guid(d01ce91280120de49b931b40f9e16f6b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledMessageDrawer.cs using Guid(d01ce91280120de49b931b40f9e16f6b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9bb291af6658048bea03664bed71d3ab') in 0.021581 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledBannerDrawer.cs
+  artifactKey: Guid(864d8c89c5d2ef240b0c51f15c5211e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledBannerDrawer.cs using Guid(864d8c89c5d2ef240b0c51f15c5211e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cc8bb12071be12bdb8e9e58cc414d0d6') in 0.017411 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat
+  artifactKey: Guid(2a8f9a878cb7cff45b00339938d945ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - TreeTrunk.mat using Guid(2a8f9a878cb7cff45b00339938d945ce) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8cc606edaa6968f55371502ea499717') in 0.017280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/SettingsUtils/SaveSettingsData.cs
+  artifactKey: Guid(7afe5a6ac49829c408df7e64761e822d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/SettingsUtils/SaveSettingsData.cs using Guid(7afe5a6ac49829c408df7e64761e822d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '391c8259c167dd49b469b6140cb1b312') in 0.020809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf
+  artifactKey: Guid(5cbce0d58b9d6d147bde7b2601194b85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Skybox Cubemap Extended.pdf using Guid(5cbce0d58b9d6d147bde7b2601194b85) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'beccd6d51c98894edc7f5a5f290610db') in 0.013358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree B.prefab
+  artifactKey: Guid(d2cd02263a1e8084abf81f1324b929be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Prefabs/LowPoly - FirTree B.prefab using Guid(d2cd02263a1e8084abf81f1324b929be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '933df3d62360d5e3418ef4323cbc31ee') in 0.040186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledInteractive.cs
+  artifactKey: Guid(388415cfa9bb69041a8281bc567acec5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledInspector/StyledInteractive.cs using Guid(388415cfa9bb69041a8281bc567acec5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f6e85ec19f9a8193f41c8f5725355d80') in 0.018897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledButtonDrawer.cs
+  artifactKey: Guid(b40d7a397aa055b46a1651ee9f9bdd03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledButtonDrawer.cs using Guid(b40d7a397aa055b46a1651ee9f9bdd03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'be1a938e51553259d17555f92fa263ca') in 0.017426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity
+  artifactKey: Guid(67adac43bcf286444be612074ab04f75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Demo Day.unity using Guid(67adac43bcf286444be612074ab04f75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '512c040a730c1b0e211003f7c58fe163') in 0.009406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledScriptableObject.cs
+  artifactKey: Guid(528a63c4c58b58a4ca3927eec830c596) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Scripts/StyledMono/StyledScriptableObject.cs using Guid(528a63c4c58b58a4ca3927eec830c596) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f51dc4f8d0dfb0e2cd524c13cbaee613') in 0.016386 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextDrawer.cs
+  artifactKey: Guid(e137daebc2f7e0c4aa0ee5c5b140e8fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledTextDrawer.cs using Guid(e137daebc2f7e0c4aa0ee5c5b140e8fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dcfb4551627c4fb1e9ba8dbb4f88e1d6') in 0.018285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat
+  artifactKey: Guid(ff059fc016fcf8d4a88162b27e334cba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly - Wood.mat using Guid(ff059fc016fcf8d4a88162b27e334cba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '40abd970813bef93cb96f82e8a30f8dd') in 0.017931 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTextDrawer.cs
+  artifactKey: Guid(aeec2ac650d2d8f40aa3b9e0cb807db5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTextDrawer.cs using Guid(aeec2ac650d2d8f40aa3b9e0cb807db5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7b6b5f0da403c0422da4d4bc505c59f8') in 0.017820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/User/User.pdf
+  artifactKey: Guid(983558b57a284d84bbc541f947bc5139) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/User/User.pdf using Guid(983558b57a284d84bbc541f947bc5139) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e9612b7e2e3a955b6f8480061f55d37e') in 0.009504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorCategory.cs
+  artifactKey: Guid(87b94a9c1333f074e8c24cd5a2fe1d73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledGUI/DrawInspectorCategory.cs using Guid(87b94a9c1333f074e8c24cd5a2fe1d73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a30c77624724e857bc86c4f0c73303e5') in 0.017072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledEnumDrawer.cs
+  artifactKey: Guid(a5dbd5cf6c68f1d4ebd1369f8795ee3a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledMaterial/StyledEnumDrawer.cs using Guid(a5dbd5cf6c68f1d4ebd1369f8795ee3a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0bb799b5d76a6145504a54afe2c1ae6d') in 0.017306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTexturePreviewDrawer.cs
+  artifactKey: Guid(c8daad1bc4051084ca6204e12dc0890d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Utils/Editor/StyledInspector/StyledTexturePreviewDrawer.cs using Guid(c8daad1bc4051084ca6204e12dc0890d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f0506e29beff752296571a7b1b3454bb') in 0.021112 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/4-Animation/RobotAnimationController.controller
+  artifactKey: Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/4-Animation/RobotAnimationController.controller using Guid(1d28d8aefe6758b419da3f5a3ee86b4a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7d3adfc7450baed2917de71eff929c97') in 0.030534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Terrain.FBX
+  artifactKey: Guid(f3dd2dace832efa4fa391170674edcc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/10-Others/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Meshes/LowPoly - Terrain.FBX using Guid(f3dd2dace832efa4fa391170674edcc1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f63166c213362a51b07c7db045d83a30') in 0.027864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
