@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/gXTbaUj" width=600>
+<blockquote class="imgur-embed-pub" lang="en" data-id="NcLvex0"><a href="https://imgur.com/NcLvex0">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Takım İsmi
 U41 Unity Takımı
