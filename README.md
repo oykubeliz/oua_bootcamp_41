@@ -14,9 +14,9 @@ U41 Unity
 Robotic Resurrection
 
 ## Product Backlog List
-[U41 Unity Trello Sprint Board - 1](https://trello.com/b/LAfo7UeH/1-sprint)
-[U41 Unity Trello Sprint Board - 2](https://trello.com/b/VnaWjqj8/2-sprint)
-[U41 Unity Trello Sprint Board - 3](https://trello.com/b/Sc7AtCNH/3-sprint)
+- [U41 Unity Trello Sprint Board - 1](https://trello.com/b/LAfo7UeH/1-sprint)
+- [U41 Unity Trello Sprint Board - 2](https://trello.com/b/VnaWjqj8/2-sprint)
+- [U41 Unity Trello Sprint Board - 3](https://trello.com/b/Sc7AtCNH/3-sprint)
 
 ## Game Description
 In Robotic Resurrection, players control a cute, determined robot named Bolt who must navigate a small desert planet to find and reassemble his robot friend, Jolt, after a spaceship crash. The game combines elements of exploration, adventure and platforming.
