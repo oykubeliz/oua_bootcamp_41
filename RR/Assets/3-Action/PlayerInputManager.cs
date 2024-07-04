@@ -9,6 +9,7 @@ public class PlayerInputManager : MonoBehaviour
     public Vector2 look;
     public bool sprint;
     public bool jump;
+    public bool attack;
     
     void OnMove(InputValue value)
     {
@@ -28,6 +29,11 @@ public class PlayerInputManager : MonoBehaviour
     void OnJump(InputValue value)
     {
         jump = value.isPressed;
+    }
+    
+    void OnAttack(InputValue value)
+    {
+        attack = value.isPressed;
     }
 
 }
