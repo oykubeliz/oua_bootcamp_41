@@ -50,7 +50,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 ### **Development Progress**
 * The character's basic movements such as walking, running and jumping were coded. 3rd person camera programmed.
 
-   | ![Basic Movements](https://i.imgur.com/JrXAukM.gif) | ![Camera Controls](https://i.imgur.com/KpyP8AS.png) |
+   | ![Basic Movements](https://i.imgur.com/HvaEdXZ.mp4) | ![Camera Controls](https://i.imgur.com/KpyP8AS.png) |
    |:---------------------------------:|:-----------------------------------:|
    | Basic movements were coded.                        | Camera controls are programmed.                        |
 
