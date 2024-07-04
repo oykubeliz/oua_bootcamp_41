@@ -47,11 +47,12 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 <img width="1179" alt="" src="">
 
 
-- **Ürün Durumu**: Ekran Görüntüleri:
-![Karakter](character)
-<img width="1293" alt="k" src="">
-<img width="1366" alt="" src="">
-<img width="570" alt="" src="">
+### **Development Progress**
+* The character's basic movements such as walking, running and jumping were coded. 3rd person camera programmed.
+
+   | ![Basic Movements](https://i.imgur.com/JrXAukM.gif) | ![Camera Controls](https://i.imgur.com/KpyP8AS.png) |
+   |:---------------------------------:|:-----------------------------------:|
+   | Basic movements were coded.                        | Camera controls are programmed.                        |
 
 
   ![GIF 1](gif)
