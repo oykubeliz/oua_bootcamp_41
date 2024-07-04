@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/NcLvex0.png" width=600>
+<img src="https://i.imgur.com/PXqWjeb.png" width=600>
 
 ## Team Name
 U41 Unity
