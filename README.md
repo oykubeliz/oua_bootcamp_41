@@ -50,7 +50,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 ### **Development Progress**
 * The character's basic movements such as walking, running and jumping were coded. 3rd person camera programmed.
 
-   | ![Basic Movements](https://i.ibb.co/30hskJj/Temel-Hareketler.gif) | ![Camera Controls]() |
+   | ![Basic Movements](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJhaTM5M3RhOWFidnJscjk5ZjZ5Mzg5Mzc1dm16YnNmeXZtcm1oaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92qbkZCR43SgWyZ9lp/giphy.gif) | ![Camera Controls](https://i.imgur.com/KpyP8AS.png) |
    |:---------------------------------:|:-----------------------------------:|
    | Basic movements were coded.                        | Camera controls are programmed.                        |
 
