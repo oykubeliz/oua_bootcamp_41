@@ -87,13 +87,13 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 
 
  ### **Sprint Review**
-- ...
-- ...
+- At the end of Sprint 1, the team met and the Sprint was reviewed. In general, the intended tasks have been completed.  The tasks of completing the enemy AI, completing the map, and completing the cinematic images to be used for the beginning have been added to the tasks of the second Sprint.
+- Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz Öztürk
 
 
 
  ### **Sprint Retrospective**
-- ...
-- ...
-- ...
-- ...
+- The score for Sprint 1 is 18.
+- It was decided to complete the map in the 2nd Sprint.
+- The character's mechanics are coded and its animations are programmed.
+- It was decided that communication among team members should be increased in future sprints.
