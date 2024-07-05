@@ -48,21 +48,23 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - ...
 ### **Daily Scrum**
 
+* Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
+
    | ![WP](https://i.imgur.com/MbI3CkJ.png) |
    |:---------------------------------:|
-   | WhatsApp meetings                         |
+   | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
 
    | ![DC](https://i.imgur.com/fmsOHLR.png) |
    |:---------------------------------:|
-   | Discord meetings                         |
+   | Discord was preferred for planning and collaborative work.                         |
 
    | ![Trello 1](https://i.imgur.com/5zEhNLH.png) |
    |:---------------------------------:|
-   | Trello meetings 1                         |
+   | Recordings of Discord meetings can be found on Trello as cards in the "Meeting Logs" list                         |
 
    | ![Trello 1](https://i.imgur.com/8XgakkS.png) |
    |:---------------------------------:|
-   | Trello meetings 2                        |
+   | Trello meeting logs                        |
 
   
 ### **Development Progress**
