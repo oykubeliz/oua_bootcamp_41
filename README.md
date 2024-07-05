@@ -46,6 +46,11 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - ...
 - ...
 - ...
+### **Sprint Board I**
+   | ![Sprint Board 1](https://i.imgur.com/u6HmhE4.png) |
+   |:---------------------------------:|
+   | Sprint board 1                         |
+
 ### **Daily Scrum**
 
 * Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
