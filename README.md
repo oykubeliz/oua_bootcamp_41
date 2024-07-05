@@ -47,7 +47,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - ...
 - ...
 ### **Sprint 1 Board**
-   | ![Sprint Board 1](https://i.imgur.com/u6HmhE4.png) |
+   | ![Sprint Board 1](https://i.imgur.com/gXidU8R.png) |
    |:---------------------------------:|
    | Sprint board 1                         |
 
