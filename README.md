@@ -79,6 +79,12 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
    |:---------------------------------:|:-----------------------------------:|
    | Walking mechanics on inclined ground have been made smoother                        | Attack and death mechanics have been coded                         |
 
+* The design of the game map has started.
+
+   | ![Terrain](https://i.imgur.com/CBt15DO.png) |
+   |:---------------------------------:|
+   | Basic elements of the game map                        |
+
 * The loading scene image has been prepared.
 
    | ![Loading Scene](https://i.imgur.com/Onu3cQM.png) |
