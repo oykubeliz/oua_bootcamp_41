@@ -46,9 +46,30 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - ...
 - ...
 - ...
-<img width="1179" alt="" src="">
+### **Daily Scrum**
 
+* Trello Meeting Logs
 
+   | ![Trello 1](https://i.imgur.com/5zEhNLH.png) |
+   |:---------------------------------:|
+   | Trello meeting logs 1                         |
+
+   | ![Trello 1](https://i.imgur.com/8XgakkS.png) |
+   |:---------------------------------:|
+   | Açıklama 1                         |
+
+* wp
+
+   | ![Trello 1](https://i.imgur.com/5zEhNLH.png) | ![İkinci Görsel](path/to/image2.jpg) |
+   |:---------------------------------:|:-----------------------------------:|
+   | Açıklama 1                         | Açıklama 2                          |
+
+  * Dc
+
+   | ![İlk Görsel](path/to/image1.jpg) | ![İkinci Görsel](path/to/image2.jpg) |
+   |:---------------------------------:|:-----------------------------------:|
+   | Açıklama 1                         | Açıklama 2                          |
+  
 ### **Development Progress**
 * The character's basic movements such as walking, running and jumping were coded. Motion animations and 3rd person camera are programmed.
 
