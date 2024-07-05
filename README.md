@@ -60,7 +60,11 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
    |:---------------------------------:|:-----------------------------------:|
    | Walking mechanics on inclined ground have been made smoother.                        | Attack and death mechanics have been coded.                         |
 
+* The loading scene image has been prepared.
 
+   | ![Loading Scene](https://i.imgur.com/Onu3cQM.png) |
+   |:---------------------------------:|
+   | Loading scene image prepared                         |
 
 
  ### **Sprint Review**
