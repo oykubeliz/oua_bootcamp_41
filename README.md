@@ -105,7 +105,8 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 
 
  ### **Sprint Retrospective**
-- The score for Sprint 1 is 18.
+- The score for Sprint 1 is 20.
 - It was decided to complete the map in the 2nd Sprint.
 - The character's mechanics are coded and its animations are programmed.
+- Enemy's AI logic programmed.
 - It was decided that communication among team members should be increased in future sprints.
