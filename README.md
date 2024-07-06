@@ -38,10 +38,10 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 
 ---
 # **SPRINT 1**
-- It has been decided that the score evaluation for the sprint will be 22.
-- Score completion logic: The backlog score that must be completed throughout the project is predicted to be 50. The number of points to be completed for the first Sprint was determined as 22 and 18 has been reached.
+- It has been decided that the score evaluation for the sprint will be 20.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the first Sprint was determined as 20, and the target score was reached by obtaining 20 points.
 ### **Sprint 1 Board**
-   | ![Sprint Board 1](https://i.imgur.com/gXidU8R.png) |
+   | ![Sprint Board 1](https://i.imgur.com/uQRA9ZT.png) |
    |:---------------------------------:|
    | Sprint 1 board                         |
 
