@@ -55,19 +55,15 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 
    | ![WP](https://i.imgur.com/MbI3CkJ.png) |
    |:---------------------------------:|
-   | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
 
    | ![DC](https://i.imgur.com/fmsOHLR.png) |
    |:---------------------------------:|
-   | Discord was preferred for planning and collaborative work.                         |
 
    | ![Trello 1](https://i.imgur.com/5zEhNLH.png) |
    |:---------------------------------:|
-   | Recordings of Discord meetings can be found on Trello as cards in the "Meeting Logs" list                         |
 
    | ![Trello 1](https://i.imgur.com/8XgakkS.png) |
    |:---------------------------------:|
-   | Trello meeting logs                        |
 
   
 ### **Development Progress**
