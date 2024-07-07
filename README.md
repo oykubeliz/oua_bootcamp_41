@@ -116,3 +116,84 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 - Enemy's AI logic is programmed.
 - The team discussed the next steps, the tasks of completing the map and completing the cinematic images to be used for the beginning were added to the to do list of the second sprint.
 - It was decided that communication among team members should be increased in future sprints.
+
+
+---
+# **SPRINT 2**
+
+   | ![Sprint 2](https://i.imgur.com/cXNRkUK.png) |
+   |:---------------------------------:|
+
+- ...
+- ...
+### **Sprint 2 Board**
+   | ![Sprint Board 2](link) |
+   |:---------------------------------:|
+   | Sprint 2 board                         |
+
+### **Daily Scrum**
+
+* Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
+
+   | ![WP](link) |
+   |:---------------------------------:|
+   | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
+
+   | ![DC](link) |
+   |:---------------------------------:|
+   | Discord was preferred for planning and collaborative work.                         |
+
+   | ![Trello 1](link) |
+   |:---------------------------------:|
+   | Recordings of Discord meetings can be found on Trello as cards in the "Meeting Logs" list                         |
+
+   | ![Trello 1](link) |
+   |:---------------------------------:|
+   | Trello meeting logs                        |
+
+  
+### **Development Progress**
+* ...
+
+   | ![Basic Movements](link) | ![Camera Controls](link) |
+   |:---------------------------------:|:-----------------------------------:|
+   | asdfasdf                        | asdfasdfsafd                        |
+
+* ...
+
+   | ![Eğimli Zemin Testleri](link) | ![Saldırı ve Ölüm Mekaniği](link) |
+   |:---------------------------------:|:-----------------------------------:|
+   | asdfasdf                       | asdfasdf                         |
+
+* ...
+
+   | ![Map Sketch](link) |
+   |:---------------------------------:|
+   | adsfasdf                        |
+
+* ...
+
+   | ![Terrain](link) |
+   |:---------------------------------:|
+   | asdfasdf                        |
+
+* ...
+
+   | ![Loading Scene](link) |
+   |:---------------------------------:|
+   | asdfasfd                         |
+
+
+ ### **Sprint Review**
+- ...
+
+
+
+
+ ### **Sprint Retrospective**
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
