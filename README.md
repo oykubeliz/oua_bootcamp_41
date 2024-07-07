@@ -39,7 +39,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 ---
 # **SPRINT 1**
 
-   | ![Sprint Board 1](https://i.imgur.com/xvbROR8.png) |
+   | ![Sprint 1](https://i.imgur.com/xvbROR8.png) |
    |:---------------------------------:|
 
 - It has been decided that the score evaluation for the sprint will be 20.
@@ -155,31 +155,31 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 ### **Development Progress**
 * ...
 
-   | ![Basic Movements](link) | ![Camera Controls](link) |
+   | ![image name](link) | ![image name](link) |
    |:---------------------------------:|:-----------------------------------:|
    | asdfasdf                        | asdfasdfsafd                        |
 
 * ...
 
-   | ![Eğimli Zemin Testleri](link) | ![Saldırı ve Ölüm Mekaniği](link) |
+   | ![image name](link) | ![image name](link) |
    |:---------------------------------:|:-----------------------------------:|
    | asdfasdf                       | asdfasdf                         |
 
 * ...
 
-   | ![Map Sketch](link) |
+   | ![image name](link) |
    |:---------------------------------:|
    | adsfasdf                        |
 
 * ...
 
-   | ![Terrain](link) |
+   | ![image name](link) |
    |:---------------------------------:|
    | asdfasdf                        |
 
 * ...
 
-   | ![Loading Scene](link) |
+   | ![image name](link) |
    |:---------------------------------:|
    | asdfasfd                         |
 
