@@ -157,7 +157,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
    | ![Async Multi Scene](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p5dGJtc2tudGtpZjgzYTRocWRwcnE5Z2tnMDZid2tsb3BydXZjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WdTNLyRs4VISe73TmI/giphy.gif) | ![Occlusion Culling](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtpeHVxMmxieW0zMjljbzRiM3Frbmo5bGR6b3dzanBjcXp2cGJ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlTCa4XgQMHOqxFrb7/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Async multi-scene loading system prapered                      | Occlusion Culling adjusted                       |
+   | Async multi-scene loading system prapered                      | Occlusion culling adjusted                       |
 
 * ...
 
