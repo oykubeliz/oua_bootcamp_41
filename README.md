@@ -196,6 +196,9 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    | ![family](https://i.imgur.com/5NJcxRM.png) |
    |:---------------------------------:|
 
+   | ![test](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lraHNvOWUzeTVzZmFwczE3MHV5bGQxZnp2aHl0dDk4bDcxanF1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykhBBulp3spfq5SB6H/giphy-downsized-large.gif) |
+   |:---------------------------------:|
+
 
  ### **Sprint Review**
 - ...
