@@ -173,7 +173,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * The open world map design of the game has been completed
 
-   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZng1ZWRtbG41d3lqeGE2bWZnamJ5dng0NDlka3liOTB6c3N4MmgydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y86tJGQDIxN77wJ6D3/giphy-downsized-large.gif) |
+   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdoMnZpcDVwdGh6N2l4c3A1Y3Q1c2ZjMTdiandrNWJ4NG0zMm13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5MSld6gxsnuAE1s27q/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | Open world map                       | Open world map                      |
 
