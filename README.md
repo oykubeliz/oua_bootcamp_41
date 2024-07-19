@@ -189,7 +189,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
    | ![Nero](https://i.imgur.com/gnanfrD.png) |
    |:---------------------------------:|
-   | Nero Bot, the musical maestro that adds a splash of color to our Discord meetings                       |
+   | Nero Bot: The musical maestro that adds a splash of color to our Discord meetings                       |
 
 * ...
 
