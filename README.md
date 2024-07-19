@@ -3,7 +3,7 @@
 </p>
 
 ## Team Name
-U41 Unity
+TuTo Games
 
 ## Team Members
 - ***Mustafa Said Güngör*** - Product Owner
@@ -165,15 +165,15 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|:-----------------------------------:|
    | asdfasdf                       | asdfasdf                         |
 
-* Mini map has been designed
+* Final map sketch was created.
 
    | ![minimap](https://i.imgur.com/QrJilME.jpeg) |
    |:---------------------------------:|
-   | Final mini map design                        |
+   | Final Map Sketch                        |
 
 * The open world map design of the game has been completed
 
-   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) |
+   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXphMWM4MXBhMnNycTNpNTlzdmZ4eDdzNXN1NDUxdTl0ejJuaGppYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dTUZYHWvkA9bcqJdHS/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | Open world map                       | Open world map                      |
 
