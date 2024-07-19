@@ -175,7 +175,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
    | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2g2MWRjNWVkbXAycHVmdDliY2luNXBpbmNnc2E3ODRtNjF3eHpzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dTUZYHWvkA9bcqJdHS/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Open world map                       | Open world mapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                         |
+   | Open world map                       | Open world mapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa                       |
 
 * ...
 
