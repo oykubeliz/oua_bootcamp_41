@@ -177,7 +177,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|:-----------------------------------:|
    | The open world map design of the game has been completed                       | Open world map                      |
 
-* Names and key features of the robots were decided.
+* Names and key features of the rovers were decided.
 
    | ![Bolt](https://i.imgur.com/Neik1ke.png) |
    |:---------------------------------:|
