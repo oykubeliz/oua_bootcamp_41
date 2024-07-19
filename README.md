@@ -191,7 +191,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Nero Bot: The musical maestro that adds a splash of color to our Discord meetings                       |
 
-* Nero - T08 Crew Photo
+* Space Ship Nero - T08 Crew Photo
 
    | ![family](https://i.imgur.com/5NJcxRM.png) |
    |:---------------------------------:|
