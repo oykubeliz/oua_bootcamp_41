@@ -198,15 +198,28 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 
  ### **Sprint Review**
-- ...
+- At the end of Sprint 2, the team met to review the Sprint. The intended tasks have all been completed. The communication problems have increased since the previous sprint. 
+Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz Öztürk
 
 
 
 
  ### **Sprint Retrospective**
-- ...
-- ...
-- ...
-- ...
-- ...
-- ...
+- The score for Sprint 1 is 15.
+- The character's names and functions are decided.
+- The game's story and lore are completed. 
+- The map is revised. Final map sketch is completed.
+- Mini map is prepared.
+- Reference pictures are found.
+- Async multi-scene loading system is prepared.
+- Occlusion culling is adjusted.
+- Game Design Document is prepared.
+- UI is designed.
+- Game Icons are prepared, one icon is chosen.
+- Cinematic footage for the beginning is created.
+- Cinematic footage is revised. Previous cinematic photos are replaced with animations.
+- Basic environment design is finished.
+- New assets were found and added to the game for additional enemies.
+- The interface has been made operational.
+- The team discussed the next steps, the tasks of completing the level design, creating the checkpoint system and attack mechanics are added to the third sprint's to do list.
+- Problems regarding communication among team members are adressed.
