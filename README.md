@@ -175,19 +175,26 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
    | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdoMnZpcDVwdGh6N2l4c3A1Y3Q1c2ZjMTdiandrNWJ4NG0zMm13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5MSld6gxsnuAE1s27q/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
-   | Open world map                       | Open world map                      |
+   | The open world map design of the game has been completed                       | Open world map                      |
 
 * ...
 
-   | ![map complated]() |
+   | ![Bolt](https://i.imgur.com/Neik1ke.png) |
    |:---------------------------------:|
-   | The open world map design of the game has been completed                       |
+   | Bolt                       |
+
+   | ![Jolt](https://i.imgur.com/FLI1eCK.png) |
+   |:---------------------------------:|
+   | Jolt                       |
+
+   | ![Nero](https://i.imgur.com/gnanfrD.png) |
+   |:---------------------------------:|
+   | Nero Bot                       |
 
 * ...
 
-   | ![image name](link) |
+   | ![family](https://i.imgur.com/5NJcxRM.png) |
    |:---------------------------------:|
-   | asdfasfd                         |
 
 
  ### **Sprint Review**
