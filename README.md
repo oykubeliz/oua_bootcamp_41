@@ -124,10 +124,10 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    | ![Sprint 2](https://i.imgur.com/cXNRkUK.png) |
    |:---------------------------------:|
 
-- ...
-- ...
+- It has been decided that the score evaluation for the sprint will be 15.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the second Sprint was determined as 15, and the target score was reached by obtaining 15 points.
 ### **Sprint 2 Board**
-   | ![Sprint Board 2](link) |
+   | ![Sprint Board 2](https://i.imgur.com/CbGrGmX.png) |
    |:---------------------------------:|
    | Sprint 2 board                         |
 
