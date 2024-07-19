@@ -177,26 +177,23 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|:-----------------------------------:|
    | The open world map design of the game has been completed                       | Open world map                      |
 
-* ...
+* Names and key features of the robots were decided.
 
    | ![Bolt](https://i.imgur.com/Neik1ke.png) |
    |:---------------------------------:|
-   | Bolt                       |
+   | Bolt: Exploration and Retrieval Rover                       |
 
    | ![Jolt](https://i.imgur.com/FLI1eCK.png) |
    |:---------------------------------:|
-   | Jolt                       |
+   | Jolt: Exploration and Communication Rover                       |
 
    | ![Nero](https://i.imgur.com/gnanfrD.png) |
    |:---------------------------------:|
-   | Nero Bot                       |
+   | Nero Bot, the musical maestro that adds a splash of color to our Discord meetings                       |
 
 * ...
 
    | ![family](https://i.imgur.com/5NJcxRM.png) |
-   |:---------------------------------:|
-
-   | ![test](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lraHNvOWUzeTVzZmFwczE3MHV5bGQxZnp2aHl0dDk4bDcxanF1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ykhBBulp3spfq5SB6H/giphy-downsized-large.gif) |
    |:---------------------------------:|
 
 
