@@ -171,7 +171,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Final mini map design                        |
 
-  * The open world map design of the game has been completed
+* The open world map design of the game has been completed
 
    | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR0czR0Ym5wNTd6M2kyY3BwaGxpYnd2YW1yNDc1MHA3cW5iZmdkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DJYhnSv7nFyv9UlWPH/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
