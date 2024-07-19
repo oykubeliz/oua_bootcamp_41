@@ -191,10 +191,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Nero Bot: The musical maestro that adds a splash of color to our Discord meetings                       |
 
-* ...
+* Nero - T08 Crew Photo
 
    | ![family](https://i.imgur.com/5NJcxRM.png) |
    |:---------------------------------:|
+   | The intrepid crew of Nero-T08: ER-R2 (Bolt), EC-R2 (Jolt), and M4-R1, ready for their daring mission to Aridian-42                       |
 
 
  ### **Sprint Review**
