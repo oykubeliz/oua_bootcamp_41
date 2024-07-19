@@ -159,11 +159,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|:-----------------------------------:|
    | Async multi-scene loading system prapered                      | Occlusion culling adjusted                       |
 
-* ...
+* Cinematic footage is revised. Previous cinematic photos are replaced with animations.
 
-   | ![image name](link) | ![image name](link) |
-   |:---------------------------------:|:-----------------------------------:|
-   | asdfasdf                       | asdfasdf                         |
+   | ![anim](https://i.imgur.com/DoNPAp7.png) | 
+   |:---------------------------------:|
+   | Cinematic footage for the beginning is created                       |
 
 * Final map sketch was created.
 
