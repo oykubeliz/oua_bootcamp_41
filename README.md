@@ -194,7 +194,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Nero Bot: The musical maestro that adds a splash of color to our Discord meetings                       |
 
-* The intrepid crew of Space Ship Nero-T08: ER-R2 (Bolt), EC-R2 (Jolt), and M4-R1 (Nero bot), ready for their daring mission to planet Aridian-42.
+* The intrepid crew of Space Ship Nero-T08: ER-R2 (Bolt), EC-R2 (Jolt), and M4-R1 (Nero bot), ready for their daring mission to planet Aridius-42.
 
    | ![family](https://i.imgur.com/5NJcxRM.png) |
    |:---------------------------------:|
