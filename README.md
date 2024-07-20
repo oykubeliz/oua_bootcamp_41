@@ -177,7 +177,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * The open world map design of the game has been completed
 
-   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdoMnZpcDVwdGh6N2l4c3A1Y3Q1c2ZjMTdiandrNWJ4NG0zMm13aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5MSld6gxsnuAE1s27q/giphy.gif) |
+   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE2cDJzNTN2YW1oNGNrbjRybHplZ3BvOTFlejEyNDY1anV6MXlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFhHDXiBTDaxHXMz1Q/giphy.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | The open world map design of the game has been completed                       | Open world map                      |
 
@@ -195,11 +195,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Nero Bot: The musical maestro that adds a splash of color to our Discord meetings                       |
 
-* Space Ship Nero - T08 Crew Photo
+* The intrepid crew of Nero-T08: ER-R2 (Bolt), EC-R2 (Jolt), and M4-R1 (Nero bot), ready for their daring mission to planet Aridian-42.
 
    | ![family](https://i.imgur.com/5NJcxRM.png) |
    |:---------------------------------:|
-   | The intrepid crew of Nero-T08: ER-R2 (Bolt), EC-R2 (Jolt), and M4-R1, ready for their daring mission to Aridian-42                       |
+   | Space Ship Nero - T08 Crew Photo                      |
 
 
  ### **Sprint Review**
