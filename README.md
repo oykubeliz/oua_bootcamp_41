@@ -159,11 +159,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|:-----------------------------------:|
    | Async multi-scene loading system prapered                      | Occlusion culling adjusted                       |
 
-* Cinematic footage is revised. Previous cinematic photos are replaced with animations.
+* The open world map design of the game has been completed
 
-   | ![anim](https://i.imgur.com/DoNPAp7.png) | 
-   |:---------------------------------:|
-   | Cinematic footage for the beginning is created                       |
+   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE2cDJzNTN2YW1oNGNrbjRybHplZ3BvOTFlejEyNDY1anV6MXlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFhHDXiBTDaxHXMz1Q/giphy.gif) |
+   |:---------------------------------:|:-----------------------------------:|
+   | The open world map design of the game has been completed                       | Open world map                      |
 
 * Final map sketch was created.
 
@@ -171,11 +171,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Final Map Sketch                        |
 
-* The open world map design of the game has been completed
+* Cinematic footage is revised. Previous cinematic photos are replaced with animations.
 
-   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE2cDJzNTN2YW1oNGNrbjRybHplZ3BvOTFlejEyNDY1anV6MXlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFhHDXiBTDaxHXMz1Q/giphy.gif) |
-   |:---------------------------------:|:-----------------------------------:|
-   | The open world map design of the game has been completed                       | Open world map                      |
+   | ![anim](https://i.imgur.com/DoNPAp7.png) | 
+   |:---------------------------------:|
+   | Cinematic footage for the beginning is created                       |
 
 * Names and key features of the rovers were decided.
 
