@@ -132,7 +132,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 ### **Sprint 2 Notes**
 - At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint. The score for Sprint 2 is 15.
-  *To Do List:**
+  **To Do List:**
 - Deciding the character's names and functions
 - Writing the game's story and lore 
 - Revising the map and drawing the final sketch
