@@ -129,6 +129,24 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 - It has been decided that the score evaluation for the sprint will be 15.
 - Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the second Sprint was determined as 15, and the target score was reached by obtaining 15 points.
+
+### **Sprint 2 Notes**
+- At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint. The score for Sprint 2 is 15.
+  *To Do List:**
+- Deciding the character's names and functions
+- Writing the game's story and lore 
+- Revising the map and drawing the final sketch
+- Preparing the mini map
+- Finding reference pictures
+- Preparing async multi-scene loading system 
+- Adjusting occlusion culling
+- Preparing Game Design Document
+- Designing UI
+- Preparing game Icons
+- Creating cinematic footage for the beginning
+- Finishing basic environment design
+- Finding new assets for additional enemies.
+
 ### **Sprint 2 Board**
    | ![Sprint Board 2](https://i.imgur.com/CbGrGmX.png) |
    |:---------------------------------:|
@@ -209,7 +227,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 
  ### **Sprint Retrospective**
-- The score for Sprint 1 is 15.
+- The score for Sprint 2 is 15.
 - The character's names and functions are decided.
 - The game's story and lore are completed. 
 - The map is revised. Final map sketch is completed.
