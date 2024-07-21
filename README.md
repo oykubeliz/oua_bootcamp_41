@@ -217,7 +217,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 - Reference pictures are found.
 - Async multi-scene loading system is prepared.
 - Occlusion culling is adjusted.
-- [Game Design Document](https://trello.com/b/LAfo7UeH/1-sprint) is prepared.
+- [Game Design Document](https://docs.google.com/document/d/109nRu6rFqpzDBP4RQRf--dL4PD07kWWz_l8IcN4AePw/edit#heading=h.jre74d2j7ch1) is prepared.
 - UI is designed.
 - Game Icons are prepared, one icon is chosen.
 - Cinematic footage for the beginning is created.
