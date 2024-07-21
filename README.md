@@ -131,8 +131,8 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 - Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the second Sprint was determined as 15, and the target score was reached by obtaining 15 points.
 
 ### **Sprint 2 Notes**
-- At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint. The score for Sprint 2 is 15.
-  /**To Do List:**
+- At the beginning of the second sprint the team has discussed which tasks will be completed in the second sprint. The score for Sprint 2 is 15.<br>
+  **To Do List:**
 - Deciding the character's names and functions
 - Writing the game's story and lore 
 - Revising the map and drawing the final sketch
