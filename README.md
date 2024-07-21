@@ -257,3 +257,131 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 - The interface has been made operational.
 - The team discussed the next steps, the tasks of completing the level design, creating the checkpoint system and attack mechanics are added to the third sprint's to do list.
 - Problems regarding communication among team members are adressed.
+
+
+---
+# **SPRINT 3**
+
+   | ![Sprint3](https://i.imgur.com/bfOnOx2.png) |
+   |:---------------------------------:|
+
+- 
+- 
+
+### **Sprint 3 Notes**
+- <br>
+
+  **To Do List:**
+- 
+- 
+- 
+- 
+- 
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+### **Sprint 3 Board**
+   | ![Sprint Board 3](link) |
+   |:---------------------------------:|
+   | Sprint 3 board                         |
+
+### **Daily Scrum**
+
+* Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
+
+   | ![WP1](link) |
+   |:---------------------------------:|
+   | WhatsApp meeting logs 1                        |
+
+   | ![WP2](link) |
+   |:---------------------------------:|
+   | WhatsApp meeting logs 2                        |
+
+   | ![DC](link) |
+   |:---------------------------------:|
+   | Discord meeting logs                        |
+
+   | ![Trello 1](link) |
+   |:---------------------------------:|
+   | Trello meeting logs                        |
+
+  
+### **Development Progress**
+* 
+
+   | ![dev](link) | ![dev](link) |
+   |:---------------------------------:|:-----------------------------------:|
+   | note                     | note                      |
+
+* 
+
+   | ![dev](link) | ![dev](link) |
+   |:---------------------------------:|:-----------------------------------:|
+   | note                     | note                      |
+
+* 
+
+* 
+
+   | ![img](link) |
+   |:---------------------------------:|
+   | note                        |
+
+* 
+
+   | ![img](link) |
+   |:---------------------------------:|
+   | note                        |
+
+* 
+
+   | ![img](link) |
+   |:---------------------------------:|
+   | note                        |
+
+   | ![img](link) |
+   |:---------------------------------:|
+   | note                        |
+
+   | ![img](link) |
+   |:---------------------------------:|
+   | note                        |
+
+* 
+
+   | ![img](link) |
+   |:---------------------------------:|
+   | note                        |
+
+
+ ### **Sprint Review**
+- 
+
+
+
+
+ ### **Sprint Retrospective**
+- 
+- 
+-  
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
