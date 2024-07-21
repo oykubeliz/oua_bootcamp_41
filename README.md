@@ -28,7 +28,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 ## Game Features
 - 3D
 - Singleplayer
-- Story Driven
+- Story Driven Game
 - Adventure
 - Action RPG
 - Offline
