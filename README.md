@@ -3,8 +3,7 @@
 </p>
 
 ## Team Name
-<p align="center">
-  <img src="https://i.imgur.com/Gmjm7l0.png" width="100">
+<img src="https://i.imgur.com/Gmjm7l0.png" width="100">
 
 ## Team Members
 - ***Mustafa Said Güngör*** - Product Owner
