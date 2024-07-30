@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/PXqWjeb.png" width="600">
+  <img src="https://i.imgur.com/OGH245E.png" width="600">
 </p>
 
 ## Team Name
