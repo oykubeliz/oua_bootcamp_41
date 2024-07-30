@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/OGH245E.png" width="600">
+  <img src="https://i.imgur.com/EsocWpW.png" width="600">
 </p>
 
 ## Team Name
-TuTo Games
+<p align="center">
+  <img src="https://i.imgur.com/Gmjm7l0.png" width="600">
 
 ## Team Members
 - ***Mustafa Said Güngör*** - Product Owner
