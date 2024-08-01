@@ -265,8 +265,10 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    | ![Sprint3](https://i.imgur.com/bfOnOx2.png) |
    |:---------------------------------:|
 
-- 
-- 
+- It has been decided that the score evaluation for the sprint will be 15.
+- Score completion logic: The backlog score that must be completed throughout the project is expected to be 50. The number of points to be completed for the third and final Sprint was determined as 15, and the target score was reached by obtaining 15 points.
+
+  
 
 ### **Sprint 3 Notes**
 - <br>
