@@ -271,22 +271,25 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
   
 
 ### **Sprint 3 Notes**
-- <br>
+- <br> At the beginning of the third sprint three members of the team has discussed which tasks will be completed in the third sprint.
 
   **To Do List:**
-- 
-- 
-- 
-- 
-- 
--  
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-	Robotic Resurrection Logo will be updated.
+-	TUTO GAMES Logo will be prepared.
+-	Enemy AI and Navigation Mesh will be optimized.
+-	 Loading Screen will be prepared.
+-	In-game scene transition animation will be prepared.
+-	The system of interaction by pressing keyboard keys will be programmed.
+-	Checkpoint system will be prepared.
+-	Mini Map Will Be Integrated.
+-	Music and Sound for the game and gameplay video will be created.
+-	Platforms and enemy locations on the map will be created.
+-	Collection System will be improved.
+-	Level Design will be improved.
+-	Map design will be updated according to the upcoming level design changes.
+-	Credits scene will be designed.
+-	The game will be tested to check for errors.
+
 
 ### **Sprint 3 Board**
    | ![Sprint Board 3](link) |
@@ -363,29 +366,28 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 
  ### **Sprint Review**
-- At the end of Sprint 3, the three members of the team met, the third Sprint, and the entire development process were reviewed. The intended tasks have all been completed. The game development is succesfully completed. 
+- At the end of Sprint 3, the three members of the team met, the third Sprint, and the entire development process were reviewed. The intended tasks have all been completed. The game development is successfully completed.
 - Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz Öztürk
 
 
 
 
 
+
  ### **Sprint Retrospective**
-- 
-- 
--  
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Robotic Resurrection Logo is updated.
+- TUTO GAMES Logo is prepared.
+- Enemy AI and Navigation Mesh are optimized.
+- Loading Screen is prepared.
+- In-game scene transition animation is prepared.
+- The system of interaction by pressing keyboard keys is programmed.
+- Checkpoint system is prepared.
+- Mini Map is integrated and its bugs are fixed.
+- Music and Sound for the game and gameplay video are created.
+- Platforms and enemy locations on the map are created.
+- Collection System is improved.
+- Level Design is improved.
+- Map design is updated according to the level design improvements.
+- Credits scene is designed.
+- The game is tested to check for errors.
+
