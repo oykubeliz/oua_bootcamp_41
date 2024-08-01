@@ -363,7 +363,9 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 
  ### **Sprint Review**
-- 
+- At the end of Sprint 3, the three members of the team met, the third Sprint, and the entire development process were reviewed. The intended tasks have all been completed. The game development is succesfully completed. 
+- Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz Öztürk
+
 
 
 
