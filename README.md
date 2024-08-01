@@ -9,6 +9,7 @@
 - ***Mustafa Said Güngör*** - Product Owner
 - ***Öykü Beliz Öztürk*** - Scrum Master
 - ***Özlem Arslan*** - Developer
+- ***Nur Muhammed Korkutata*** - Developer
 
 
 ## Game Name
