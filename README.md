@@ -40,8 +40,8 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - Casual Gamers: The easy-to-pick-up gameplay and charming characters attract those looking for a lighthearted and enjoyable experience.
 
 ## Links
-[Game Design Document](https://docs.google.com/document/d/1lFQCjJ4gcxiS0oczOODph1Gs79YmVYuU9dlZmdvwNWE/edit?usp=sharing)
-[Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
+- [Game Design Document](https://docs.google.com/document/d/1lFQCjJ4gcxiS0oczOODph1Gs79YmVYuU9dlZmdvwNWE/edit?usp=sharing)
+- [Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
 
 ---
 # **SPRINT 1**
