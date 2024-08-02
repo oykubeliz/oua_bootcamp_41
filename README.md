@@ -335,13 +335,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
   
 * Music and Sound for the game and gameplay video are created.
 
-   | ![dev](link) | ![dev](link) |
-   |:---------------------------------:|:-----------------------------------:|
-   | note                     | note                      |
-
-   | ![img](link) |
-   |:---------------------------------:|
-   | note                        |
+ [Soundtrack](https://docs.google.com/spreadsheets/d/1Xb7Odh1mkbk4Q24qc-OhqtXm6COfsqmkUL-qmjPVKrY/edit?usp=sharing)
 
 
  ### **Sprint Review**
