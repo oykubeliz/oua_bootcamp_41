@@ -329,9 +329,9 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * 
 
-   | ![img](link) |
+   | ![Real Final Image](https://i.imgur.com/5peBbXC.png) |
    |:---------------------------------:|
-   | note                        |
+   | Map design is updated according to the level design improvements                        |
 
 * 
 
