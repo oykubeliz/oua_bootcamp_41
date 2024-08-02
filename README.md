@@ -300,7 +300,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP1](link) |
+   | ![WP1]([link](https://imgur.com/a/gRFejRd)) |
    |:---------------------------------:|
    | WhatsApp meeting logs 1                        |
 
