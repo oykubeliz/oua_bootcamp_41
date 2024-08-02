@@ -43,7 +43,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - [Game Design Document](https://docs.google.com/document/d/1lFQCjJ4gcxiS0oczOODph1Gs79YmVYuU9dlZmdvwNWE/edit?usp=sharing)
 - [Assets](https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
 - [itch.io](https://tutogamesrr.itch.io/robotic-resurrection)
-- [Youtube](https://www.youtube.com/channel/UC-M9hgftfGiSgV_NckEh6Ig)
+- [Youtube](https://www.youtube.com/watch?v=yAUpAvV_fxQ)
 
 ---
 # **SPRINT 1**
