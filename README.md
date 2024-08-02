@@ -329,7 +329,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 
 * Creation of platforms and enemy locations on the map.
-   | ![img](https://imgur.com/99df7cf0-07df-4590-98ee-6ad24a060b50) |
+   | ![Platforms & Enemies](https://imgur.com/99df7cf0-07df-4590-98ee-6ad24a060b50) |
    |:---------------------------------:|
    | Platforms & Enemies               |
   
