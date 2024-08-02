@@ -39,6 +39,10 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - Parents and Families: The non-violent, positive themes make it a suitable choice for family gaming sessions.
 - Casual Gamers: The easy-to-pick-up gameplay and charming characters attract those looking for a lighthearted and enjoyable experience.
 
+## Links
+[Game Design Document] (https://docs.google.com/document/d/1lFQCjJ4gcxiS0oczOODph1Gs79YmVYuU9dlZmdvwNWE/edit?usp=sharing)
+[Assets] (https://docs.google.com/document/d/1xz2rqYyFN4JcZB2ymjXu9eHQWj5EaFOzQhHTwpgjlgY/edit?usp=sharing)
+
 ---
 # **SPRINT 1**
 
@@ -276,7 +280,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 -	Robotic Resurrection Logo will be updated.
 -	TUTO GAMES Logo will be prepared.
 -	Enemy AI and Navigation Mesh will be optimized.
--	 Loading Screen will be prepared.
+-	Loading Screen will be prepared.
 -	In-game scene transition animation will be prepared.
 -	The system of interaction by pressing keyboard keys will be programmed.
 -	Checkpoint system will be prepared.
@@ -363,8 +367,6 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
  ### **Sprint Review**
 - At the end of Sprint 3, the three members of the team met, the third Sprint, and the entire development process were reviewed. The intended tasks have all been completed. The game development is successfully completed.
 - Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz Öztürk
-
-
 
 
 
