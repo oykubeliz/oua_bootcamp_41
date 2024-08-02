@@ -327,11 +327,11 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * 
 
-* 
+* Map design is updated according to the level design improvements.
 
    | ![Real Final Image](https://i.imgur.com/5peBbXC.png) |
    |:---------------------------------:|
-   | Map design is updated according to the level design improvements                        |
+   | New Finalest Final For Sure Map Sketch                        |
 
 * 
 
