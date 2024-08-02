@@ -270,7 +270,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
   
 ### **Sprint 3 Notes**
-- <br> At the beginning of the third sprint three members of the team has discussed which tasks will be completed in the third sprint.
+- At the beginning of the third sprint three members of the team has discussed which tasks will be completed in the third sprint.
 
   **To Do List:**
 -	Robotic Resurrection Logo will be updated.
