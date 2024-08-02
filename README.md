@@ -319,19 +319,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
   
 ### **Development Progress**
-* 
 
-   | ![dev](link) | ![dev](link) |
-   |:---------------------------------:|:-----------------------------------:|
-   | note                     | note                      |
-
-* 
-
-   | ![dev](link) | ![dev](link) |
-   |:---------------------------------:|:-----------------------------------:|
-   | note                     | note                      |
-
-* 
 
 * Map design is updated according to the level design improvements.
 
@@ -339,16 +327,17 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | Updated Map Sketch, Final Map Sketch and Game Version                        |
 
-* 
 
-   | ![img](link) |
+* Creation of platforms and enemy locations on the map.
+   | ![img](https://imgur.com/99df7cf0-07df-4590-98ee-6ad24a060b50) |
    |:---------------------------------:|
-   | note                        |
+   | Platforms & Enemies               |
+  
+* Music and Sound for the game and gameplay video are created.
 
-* 
-
-
-* 
+   | ![dev](link) | ![dev](link) |
+   |:---------------------------------:|:-----------------------------------:|
+   | note                     | note                      |
 
    | ![img](link) |
    |:---------------------------------:|
