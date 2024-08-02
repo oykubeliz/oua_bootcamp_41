@@ -303,10 +303,6 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
    |:---------------------------------:|
    | WhatsApp meeting logs 1                        |
 
-   | ![WP2](link) |
-   |:---------------------------------:|
-   | WhatsApp meeting logs 2                        |
-
    | ![DC](https://i.imgur.com/Erow3AA.jpeg) |
    |:---------------------------------:|
    | Discord meeting logs                        |
