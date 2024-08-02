@@ -1,0 +1,37 @@
+
+=== Thu Jul 18 15:18:34 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.cinemachine from version 2.9.5 to 2.10.0
+  com.unity.ide.rider from version 3.0.26 to 3.0.28
+  com.unity.recorder from version 4.0.2 to 4.0.3
+  com.unity.render-pipelines.universal from version 14.0.9 to 14.0.11
+  com.unity.render-pipelines.universal-config from version 14.0.9 to 14.0.10
+  com.unity.splines from version 2.5.1 to 2.6.1
+
+=== Fri Jul 19 01:33:02 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.postprocessing from version 3.2.2 to 3.4.0
+
+=== Fri Jul 19 01:33:02 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.postprocessing@3.4.0
+
+=== Fri Jul 19 04:31:34 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.postprocessing from version 3.2.2 to 3.4.0
