@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/EsocWpW.png" width="600">
+  <img src="images/image-1.png" width="600">
 </p>
 
 ## Team Name
-<img src="https://i.imgur.com/Gmjm7l0.png" width="100">
+<img src="images/image-2.png" width="100">
 
 ## Team Members
 - ***Mustafa Said Güngör*** - Product Owner
@@ -48,7 +48,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 ---
 # **SPRINT 1**
 
-   | ![Sprint 1](https://i.imgur.com/xvbROR8.png) |
+   | ![Sprint 1](images/image-3.png) |
    |:---------------------------------:|
 
 - It has been decided that the score evaluation for the sprint will be 20.
@@ -65,7 +65,7 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 - Programming enemy’s AI logic
 
 ### **Sprint 1 Board**
-   | ![Sprint Board 1](https://i.imgur.com/uQRA9ZT.png) |
+   | ![Sprint Board 1](images/image-4.png) |
    |:---------------------------------:|
    | Sprint 1 board                         |
 
@@ -73,19 +73,19 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 
 * Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP](https://i.imgur.com/MbI3CkJ.png) |
+   | ![WP](images/image-5.png) |
    |:---------------------------------:|
    | Initially, communication was established via WhatsApp, and WhatsApp was preferred for daily communication                         |
 
-   | ![DC](https://i.imgur.com/fmsOHLR.png) |
+   | ![DC](images/image-6.png) |
    |:---------------------------------:|
    | Discord was preferred for planning and collaborative work.                         |
 
-   | ![Trello 1](https://i.imgur.com/5zEhNLH.png) |
+   | ![Trello 1](images/image-7.png) |
    |:---------------------------------:|
    | Recordings of Discord meetings can be found on Trello as cards in the "Meeting Logs" list                         |
 
-   | ![Trello 1](https://i.imgur.com/8XgakkS.png) |
+   | ![Trello 1](images/image-8.png) |
    |:---------------------------------:|
    | Trello meeting logs                        |
 
@@ -93,31 +93,31 @@ Players will guide Bolt through the desert filled with challenges and obstacles.
 ### **Development Progress**
 * The character's basic movements such as walking, running and jumping were coded. Motion animations and 3rd person camera are programmed.
 
-   | ![Basic Movements](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJhaTM5M3RhOWFidnJscjk5ZjZ5Mzg5Mzc1dm16YnNmeXZtcm1oaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92qbkZCR43SgWyZ9lp/giphy.gif) | ![Camera Controls](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWsycTF6MTRkZnpvbnA5NXRncHRnZWRnbGI5enFieWM5MGxpOXpsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uaE8Vyyoqmkxv1uOaU/giphy.gif) |
+   | ![Basic Movements](images/image-9.gif) | ![Camera Controls](images/image-10.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | Basic movements were coded                        | Motion animations are programmed                        |
 
 * Attack and death mechanics have been coded. Animations are programmed. The character was provided to walk and run smoothly on inclined ground.
 
-   | ![Eğimli Zemin Testleri](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW54MmVodWQ3ODM0bGpyeHR6aWc3amJjdzZjN3RvbnF1b2Q5cnB2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nLSHQDxOrqzymHKIsW/giphy.gif) | ![Saldırı ve Ölüm Mekaniği](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV0am5qb2xlaTB1ZGIwMmt6ZXU0ODFkc2Y3a3R1eWlkMzgyd3V6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/08iLgxqmkcCTJrdB1k/giphy.gif) |
+   | ![Eğimli Zemin Testleri](images/image-11.gif) | ![Saldırı ve Ölüm Mekaniği](images/image-12.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | Walking mechanics on inclined ground have been made smoother                        | Attack and death mechanics have been coded                         |
 
 * Map sketch was created.
 
-   | ![Map Sketch](https://i.imgur.com/dXF4VMX.png) |
+   | ![Map Sketch](images/image-13.png) |
    |:---------------------------------:|
    | Sketch of the game map                        |
 
 * The design of the game map has started.
 
-   | ![Terrain](https://i.imgur.com/CBt15DO.png) |
+   | ![Terrain](images/image-14.png) |
    |:---------------------------------:|
    | Basic elements of the game map                        |
 
 * The loading scene image has been prepared.
 
-   | ![Loading Scene](https://i.imgur.com/Onu3cQM.png) |
+   | ![Loading Scene](images/image-15.png) |
    |:---------------------------------:|
    | Loading scene image prepared                         |
 
@@ -141,7 +141,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 ---
 # **SPRINT 2**
 
-   | ![Sprint 2](https://i.imgur.com/cXNRkUK.png) |
+   | ![Sprint 2](images/image-16.png) |
    |:---------------------------------:|
 
 - It has been decided that the score evaluation for the sprint will be 15.
@@ -166,7 +166,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 - Finding new assets for additional enemies.
 
 ### **Sprint 2 Board**
-   | ![Sprint Board 2](https://i.imgur.com/CbGrGmX.png) |
+   | ![Sprint Board 2](images/image-17.png) |
    |:---------------------------------:|
    | Sprint 2 board                         |
 
@@ -174,19 +174,19 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP1](https://i.imgur.com/CS6iuFI.png) |
+   | ![WP1](images/image-18.png) |
    |:---------------------------------:|
    | WhatsApp meeting logs 1                        |
 
-   | ![WP2](https://i.imgur.com/SRLbiBj.png) |
+   | ![WP2](images/image-19.png) |
    |:---------------------------------:|
    | WhatsApp meeting logs 2                        |
 
-   | ![DC](https://i.imgur.com/HFZutQR.png) |
+   | ![DC](images/image-20.png) |
    |:---------------------------------:|
    | Discord meeting logs                        |
 
-   | ![Trello 1](https://i.imgur.com/sYdpKZ3.png) |
+   | ![Trello 1](images/image-21.png) |
    |:---------------------------------:|
    | Trello meeting logs                        |
 
@@ -194,45 +194,45 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 ### **Development Progress**
 * To improve optimization, the "Async Multi-Scene Loading" system was prepared and "Occlusion Culling" settings were adjusted.
 
-   | ![Async Multi Scene](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p5dGJtc2tudGtpZjgzYTRocWRwcnE5Z2tnMDZid2tsb3BydXZjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WdTNLyRs4VISe73TmI/giphy.gif) | ![Occlusion Culling](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWtpeHVxMmxieW0zMjljbzRiM3Frbmo5bGR6b3dzanBjcXp2cGJ1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LlTCa4XgQMHOqxFrb7/giphy.gif) |
+   | ![Async Multi Scene](images/image-22.gif) | ![Occlusion Culling](images/image-23.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | Async multi-scene loading system prapered                      | Occlusion culling adjusted                       |
 
 * The open world map design of the game has been completed
 
-   | ![map1](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNjb3R1c3A3N3V6ODdsZ2dodWY2anF0cGVhMzU0eHRzYWk1NTlqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XfTWoaXIHwzlhfpW4Q/giphy.gif) | ![map2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE2cDJzNTN2YW1oNGNrbjRybHplZ3BvOTFlejEyNDY1anV6MXlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LFhHDXiBTDaxHXMz1Q/giphy.gif) |
+   | ![map1](images/image-24.gif) | ![map2](images/image-25.gif) |
    |:---------------------------------:|:-----------------------------------:|
    | The open world map design of the game has been completed                       | Open world map                      |
 
 * Final map sketch was created.
 
-   | ![minimap](https://i.imgur.com/QrJilME.jpeg) |
+   | ![minimap](images/image-26.png) |
    |:---------------------------------:|
    | Final Map Sketch                        |
 
 * Cinematic footage is revised. Previous cinematic photos are replaced with animations.
 
-   | ![anim](https://i.imgur.com/DoNPAp7.png) | 
+   | ![anim](images/image-27.gif) | 
    |:---------------------------------:|
    | Cinematic footage for the beginning is created                       |
 
 * Names and key features of the rovers were decided.
 
-   | ![Bolt](https://i.imgur.com/Neik1ke.png) |
+   | ![Bolt](images/image-28.png) |
    |:---------------------------------:|
    | Bolt: Exploration and Retrieval Rover                       |
 
-   | ![Jolt](https://i.imgur.com/FLI1eCK.png) |
+   | ![Jolt](images/image-29.png) |
    |:---------------------------------:|
    | Jolt: Exploration and Communication Rover                       |
 
-   | ![Nero](https://i.imgur.com/gnanfrD.png) |
+   | ![Nero](images/image-30.png) |
    |:---------------------------------:|
    | Nero Bot: The musical maestro that adds a splash of color to our Discord meetings                       |
 
 * The intrepid crew of Space Ship Nero-T08: ER-R2 (Bolt), EC-R2 (Jolt), and M4-R1 (Nero bot), ready for their daring mission to planet Aridius-42.
 
-   | ![family](https://i.imgur.com/5NJcxRM.png) |
+   | ![family](images/image-31.png) |
    |:---------------------------------:|
    | Space Ship Nero - T08 Crew Photo                      |
 
@@ -268,7 +268,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 ---
 # **SPRINT 3**
 
-   | ![Sprint3](https://i.imgur.com/bfOnOx2.png) |
+   | ![Sprint3](images/image-32.png) |
    |:---------------------------------:|
 
 - It has been decided that the score evaluation for the sprint will be 15.
@@ -297,7 +297,7 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 
 ### **Sprint 3 Board**
-   | ![Sprint Board 3](https://i.imgur.com/SQM12G8.png)|
+   | ![Sprint Board 3](images/image-33.png)|
    |:---------------------------------:|
    | Sprint 3 board                         |
 
@@ -305,15 +305,15 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Daily scrum was held via WhatsApp and Discord. Discord meeting notes can be found on Trello as cards in the "Meeting Logs" list.
 
-   | ![WP1](https://i.imgur.com/CnhjsnI.jpg) |
+   | ![WP1](images/image-34.png) |
    |:---------------------------------:|
    | WhatsApp meeting logs                        |
 
-   | ![DC](https://i.imgur.com/Erow3AA.jpeg) |
+   | ![DC](images/image-35.png) |
    |:---------------------------------:|
    | Discord meeting logs                        |
 
-   | ![Trello 1](https://i.imgur.com/xnBsaLC.png) |
+   | ![Trello 1](images/image-36.png) |
    |:---------------------------------:|
    | Trello meeting logs                        |
 
@@ -323,13 +323,13 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 
 * Map design is updated according to the level design improvements.
 
-   | ![Real Final Image](https://i.imgur.com/5peBbXC.png) |
+   | ![Real Final Image](images/image-37.png) |
    |:---------------------------------:|
    | Updated Map Sketch, Final Map Sketch and Game Version                        |
 
 
 * Creation of platforms and enemy locations on the map.
-   | ![Platforms & Enemies](https://i.imgur.com/Q4xVF7O.png) |
+   | ![Platforms & Enemies](images/image-38.png) |
    |:---------------------------------:|
    | Platforms & Enemies               |
   
@@ -362,4 +362,3 @@ Sprint Review participants: Mustafa Said Güngör, Özlem Arslan, Öykü Beliz �
 - Map design is updated according to the level design improvements.
 - Credits scene is designed.
 - The game is tested to check for errors.
-
